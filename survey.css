@@ -1,0 +1,18 @@
+h1 {
+    color: black;
+    font-family: 'Roboto Slab', serif;
+    font-size: 24px;
+}
+
+p {
+    color: black;
+    font-family: 'Roboto Slab', serif;
+    font-size: 14px;
+}
+
+form {
+    width: 100%;
+    padding: 20px;
+    margin: 0 auto;
+    background-color: cornflowerblue;
+}
